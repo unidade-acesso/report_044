@@ -15,12 +15,12 @@ seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou 
 
 ## Relatório de Auditoria
 
-Consulte aqui a última atualização: [Relatório do PRR - WireMaze - Pack 20](report.html)
+Consulte aqui a última atualização: [Relatório do PRR - WireMaze - Pack 20](30122025_report_012.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="ddmmaaaa_report.html">(dd/mm/aaaa). Relatório do {{ page.website }}</a></li>
+    <li><a href="30122025_report_012.html">(30/12/2025). Relatório do PRR - WireMaze - Pack 20 </a></li>
   </ul>
 </details>
 
